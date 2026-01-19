@@ -1,0 +1,3 @@
+"d1_d2_shoucuobianli"文件示值按照粗暴枚举法得到的结果
+"shoucuodiedai5"文件是指按照m1,d1,d2三个板块进行块坐标下降法收敛得到的结果
+"d1_d2_zibenshoucuo"文件是证明d1,d2凸优化之后再进行块坐标下降法以及凸优化得到的结果
